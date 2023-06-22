@@ -1,0 +1,63 @@
+1682441848834	geckodriver	INFO	Listening on 127.0.0.1:50457
+1682441851902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Morpheus\\AppData\\Local\\Temp\\rust_mozprofilereTAfR"
+1682441854753	Marionette	INFO	Marionette enabled
+1682441854774	Marionette	INFO	Listening on port 50467
+WebDriver BiDi listening on ws://localhost:50458
+Read port: 50467
+1682441855263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Morpheus\\AppData\\Local\\Temp\\rust_mozprofilereTAfR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50458/devtools/browser/c11e323a-c7b3-4b75-bc43-0ed9ae4ecff3
+1682441904567	Marionette	INFO	Stopped listening on port 50467
+2441864896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Morpheus\\AppData\\Local\\Temp\\rust_mozprofilelxJnLk"
+1682441865966	Marionette	INFO	Marionette enabled
+1682441865985	Marionette	INFO	Listening on port 50506
+WebDriver BiDi listening on ws://localhost:50491
+Read port: 50506
+1682441866488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Morpheus\\AppData\\Local\\Temp\\rust_mozprofilelxJnLk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50491/devtools/browser/53d3544a-3e94-4d46-b6ec-4f437fd71a63
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.google.com"
+JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.fr.JyVC3fcCevc.2019.O/m=sc2,per,mo,lp,ti,ds,stx,dwi,enr,bom,b/am=JoA1gA/rt=j/d=1/rs=ACT90oEALpeV05gSdzFsz2nA7UhktbztPA, line 1442: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1682441902913	Marionette	INFO	Stopped listening on port 50506
+1682441933196	geckodriver	INFO	Listening on 127.0.0.1:50598
+1682441936214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Morpheus\\AppData\\Local\\Temp\\rust_mozprofileXQ7UHE"
+1682441938832	Marionette	INFO	Marionette enabled
+1682441938851	Marionette	INFO	Listening on port 50608
+WebDriver BiDi listening on ws://localhost:50599
+Read port: 50608
+1682441939328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Morpheus\\AppData\\Local\\Temp\\rust_mozprofileXQ7UHE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50599/devtools/browser/e1a038b9-9094-4b41-8e27-e806d1c35d18
+1682442012893	Marionette	INFO	Stopped listening on port 50608
+[Parent 10884, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+no-remote" "-profile" "C:\\Users\\Morpheus\\AppData\\Local\\Temp\\rust_mozprofileKubVCb"
+1682441949596	Marionette	INFO	Marionette enabled
+1682441949614	Marionette	INFO	Listening on port 50649
+WebDriver BiDi listening on ws://localhost:50632
+Read port: 50649
+1682441950163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Morpheus\\AppData\\Local\\Temp\\rust_mozprofileKubVCb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50632/devtools/browser/be0933c1-4f5f-4294-aa1c-89bd567f4aa6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.google.com"
+JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.fr.JyVC3fcCevc.2019.O/m=sc2,per,mo,lp,ti,ds,stx,dwi,enr,bom,b/am=BoA1gA/rt=j/d=1/rs=ACT90oFVfuXyWviRQ_cxnqstTvw2_q-zuw, line 1441: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1682442007395	Marionette	INFO	Stopped listening on port 50649
