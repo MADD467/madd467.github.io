@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200&family=Sofia+Sans+Extra+Condensed:wght@200&display=swap');
+
+
+html
+
+{
+    scroll-behavior: smooth;
+}
+
+body
+
+{
+    font-size: 18px;
+    font-family: 'Barlow Condensed', sans-serif;
+    background-color: bisque;
+    /*text-align: center;*/
+    color: gainsboro;
+
+}
+
+a
+
+{
+    color: gainsboro;
+}
+
+
+h1
+
+{
+    text-decoration: underline;
+    font-size: 28px;
+}
+
+
+ul li
+
+{
+   list-style: outside; /* création liste à puces */
+} 
+
+#nom_prenom
+
+{
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+#description
+
+{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+#cadre
+{
+    margin-left: 666px;
+    background-color: #04334d;
+    width: 1222px;
+    height: 1200px; /* 980px */
+    margin-top: 55px;
+}
+
+#partie_gauche
+
+{
+    margin-top: -33px;
+    margin-left: -1000px; /*1000*/
+}
+
+#contact
+
+{
+
+    padding-top: 280px;
+    margin-left: 1044px;
+    border: 1px blanchedalmond;
+}
+
+#competences
+
+{
+    margin-left: 1044px;
+}
+
+
+
+/*aside
+
+{
+
+}*/
+
+/* #contact
+
+{
+    margin-top: 50px;
+} */
+
+
+#partie_droite
+
+{
+    margin-top: -1150px; /*-944px*/
+    padding-left: -1000px;
+}
+
+#formation
+
+{
+    margin-left: 1100px;
+    margin-bottom: -77px;
+    padding-bottom: 68px;
+}
+
+#formation_auto
+
+{
+    margin-top: -120px; /* -120px */
+    padding-top: 88px;
+}
+
+#date_auto
+
+{
+    margin-left: 600px;
+}
+
+#certif_diplomes
+
+{
+    margin-left: 1120px;
+    margin-bottom: 30px; /*30px*/
+    
+}
+
+#experiences
+
+{
+    margin-left: 1120px;
+    margin-bottom: 28px; /*28px*/
+}
+
+.date
+
+{
+
+    margin-left: 615px;
+    display: block;
+
+}
+
+#stage
+
+{
+    margin-top: -30px;
+    padding-top: -30px; /* -88px */
+    padding-bottom: 140px;
+}
+
+.item
+
+{
+    margin-top: -12px;
+}
+
+
+
+
